@@ -1,2 +1,2 @@
 # Market-Basket-Optimisation
-Market Basket Optimization by association rule (Apriori)
+Market Basket Optimization by association rule (Apriori model)
